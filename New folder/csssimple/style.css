@@ -1,0 +1,33 @@
+#slider{
+    padding: 25px;
+    border: 4px solid black;
+     background-color:#4eed196e; 
+     color: rgb(7, 4, 4); 
+    text-align: center;
+    size: 25px;
+    margin: 20%;
+    font-size: 150%;
+    text-decoration: overline orangered;
+
+}
+div#slider img{
+    width: 100%;
+
+}
+h1,h2,h3{
+    color: rgba(0,0,0,.5);
+    /* font-size: larger; */
+}
+.activePage{
+    color: darkred;
+}
+.hilighted{
+    font-weight: bolder;
+
+}
+.slashcolor{
+    color: blue;
+}
+footer a{
+    display: block;
+}
